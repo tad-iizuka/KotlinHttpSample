@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinHttpSample</string>
+    <string name="buttonGet">GET</string>
+    <string name="buttonPost">POST</string>
+</resources>
